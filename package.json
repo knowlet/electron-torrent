@@ -71,7 +71,7 @@
     "md5": "^2.0.0",
     "node-promise": "^0.5.12",
     "object-assign": "^2.1.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "parse-torrent": "^5.3.0",
     "react": "^0.13.3",
     "react-bootstrap": "^0.24.5",
